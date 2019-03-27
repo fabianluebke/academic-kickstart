@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "ocean"
+color_theme = "dark"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "default"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -112,7 +112,7 @@ gravatar = false
 menu_align_right = false
 
 # Show estimated reading time for posts? (true/false)
-reading_time = true
+reading_time = false
 
 # Display comment count (if commenting enabled in config.toml)? (true/false)
 comment_count = true
