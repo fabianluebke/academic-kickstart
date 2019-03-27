@@ -13,7 +13,7 @@ role = ""
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "", url = "" } ]
+organizations = [ { name = "tshirt.consulting", url = "https://www.tshirt.consulting" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "Short Bio."
@@ -34,19 +34,19 @@ user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "Certified Integral Business Coach & Personal Coach"
+  institution = "Coaching Center Berlin"
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Reiss Profile Master"
+  institution = "RP Institute Switzerland"
+  year = 2011
+
+[[education.courses]]
+  course = "Journalistic Training Programme"
+  institution = "Grimme Institut"
+  year = 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -66,7 +66,7 @@ user_groups = []
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/fabianluebke"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
