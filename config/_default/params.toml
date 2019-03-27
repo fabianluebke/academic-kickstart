@@ -3,13 +3,13 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "apogee"
+color_theme = "ocean"
 # Enable users to switch between day and night mode?
 day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -18,11 +18,11 @@ description = ""
 sharing_image = "sharing.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "fabianluebke"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "sharing.jpg"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -37,7 +37,7 @@ math = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
